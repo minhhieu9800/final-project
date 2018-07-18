@@ -1,5 +1,15 @@
 I done	htttp://
 
+<<<<<<< HEAD
 Hieu edited first 123456
 
 gfjg
+=======
+<<<<<<< HEAD
+Hieu edited first
+
+Binh edited 125461
+=======
+Hieu edited first 123456
+>>>>>>> d5fe8562a6efa78f9d6c0dd17cf608210d5b46b3
+>>>>>>> 07fbf3c9d323b94676173af39933727f7e3cadbb
