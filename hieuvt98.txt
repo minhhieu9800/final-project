@@ -1,5 +1,9 @@
 I done	htttp://
 
+<<<<<<< HEAD
 Hieu edited first
 
 Binh edited 125461
+=======
+Hieu edited first 123456
+>>>>>>> d5fe8562a6efa78f9d6c0dd17cf608210d5b46b3
